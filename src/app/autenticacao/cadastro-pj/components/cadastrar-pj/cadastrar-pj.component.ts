@@ -9,6 +9,7 @@ import {
   CpfValidator, 
   CnpjValidator 
 } from '../../../../shared/validators';
+
 import { CadastrarPjService } from '../../services';
 
 @Component({
