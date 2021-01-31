@@ -21,6 +21,7 @@ import { AppRoutingModule } from './app-routing.module';
     LoginModule,
     LoginRoutingModule,
     CadastroPjModule,
+    CadastroPjModule,
 
     AppRoutingModule
   ],
