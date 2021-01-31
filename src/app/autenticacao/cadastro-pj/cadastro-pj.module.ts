@@ -17,7 +17,7 @@ import {
 	CadastroPjComponent 
 } from './components';
 
-//import { CadastrarPjService } from './services';
+import { CadastrarPjService } from './services/cadastro-pj.service';
 
 import { SharedModule } from '../../shared/shared.module';
 

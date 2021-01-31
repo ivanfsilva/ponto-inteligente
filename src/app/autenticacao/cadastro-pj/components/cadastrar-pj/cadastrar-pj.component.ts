@@ -10,7 +10,7 @@ import {
   CnpjValidator 
 } from '../../../../shared/validators';
 
-import { CadastrarPjService } from '../../services';
+import { CadastrarPjService } from '../../services/cadastro-pj.service';
 
 @Component({
   selector: 'app-cadastrar-pj',
