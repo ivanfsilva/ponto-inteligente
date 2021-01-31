@@ -7,7 +7,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { AppComponent } from './app.component';
 
-import { LoginModule, LoginRoutingModule } from './autenticacao';
+import { LoginModule, LoginRoutingModule, CadastroPjModule } from './autenticacao';
 import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
@@ -20,6 +20,7 @@ import { AppRoutingModule } from './app-routing.module';
     MatButtonModule,
     LoginModule,
     LoginRoutingModule,
+    CadastroPjModule,
 
     AppRoutingModule
   ],
